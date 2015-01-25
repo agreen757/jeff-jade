@@ -1,0 +1,20 @@
+{
+  "name": "jeff_jade",
+  "version": "0.0.0",
+  "description": "Jeff Hayner staging area to test out jade templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "jeff",
+    "hayner",
+    "jade"
+  ],
+  "author": "Adrian Green",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.11.1",
+    "jade": "^1.9.1"
+  }
+}
